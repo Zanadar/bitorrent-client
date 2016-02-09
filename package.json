@@ -1,0 +1,23 @@
+{
+  "name": "rc_torrent",
+  "version": "0.0.17",
+  "description": "Bittorrent Client",
+  "main": "index.js",
+  "scripts": {
+    "test": "standard && tap test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zanadar/bitorrent-client.git"
+  },
+  "keywords": [
+    "Bittorrent",
+    "client"
+  ],
+  "author": "@zanadar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Zanadar/bitorrent-client/issues"
+  },
+  "homepage": "https://github.com/Zanadar/bitorrent-client#readme"
+}
